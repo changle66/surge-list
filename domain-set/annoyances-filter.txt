@@ -763,7 +763,6 @@
 .paradoxfactor.com
 .shutseashore.com
 .thunderingrose.com
-.thomastorch.com
 .inventionpassenger.com
 .printerplasma.com
 .driverequest.com
@@ -1379,6 +1378,7 @@
 .sp.pushsquare.com
 .ttauri.livescience.com
 .ttauri.toptenreviews.com
+.kameleoon.eu
 .webwidget.shanon-services.com
 .bot.agerun.jp
 .pop.devil.services
@@ -1823,6 +1823,7 @@
 .banner.consultant.ru
 .illicium.wmtransfer.com
 .illicium.web.money
+.antennasync.me
 .rcm.shinobi.jp
 .rss.tc
 .blog-rss.com
